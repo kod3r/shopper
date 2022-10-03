@@ -1,3 +1,6 @@
 # shopper
-Sample of an Admin Dashboard with rich features presented only as a limited demonstrator of how data is loaded to the front end without "redux". 
-Concepts extended from a guided video tutorial
+Demonstrartor Dashboard
+
+#Skunkworks Trails Embrace, Extend and Extreme mods...
+
+#Followed a Video Tutorial to - Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More...
